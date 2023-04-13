@@ -26,10 +26,10 @@
  
  ##
  
-<div>
+
   
- ![Snake animation](https://github.com/PedroCezardev/PedroCezardev/blob/output/github-contribution-grid-snake.svg) 
+ ![Snake animation](https://github.com/pedrocezardev/pedrocezardev/blob/output/github-contribution-grid-snake.svg) 
 
  
- </div>
+
   
